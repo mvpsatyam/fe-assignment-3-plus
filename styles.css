@@ -20,7 +20,7 @@ ul {
   margin: 0;
 }
 
-.blog__highlights__item ul {
+.blog__highlights-item ul {
   list-style-type: circle;
   padding: 0 2rem;
 }
@@ -29,13 +29,13 @@ ul {
   margin: 2rem 0;
 }
 
-.blog__playground__examples {
+.blog__examples {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
 }
 
-.blog__playground__example {
+.blog__example {
   height: 250px;
 }
 
